@@ -1,0 +1,16 @@
+{
+	"myfullname": {
+		"name": "Vasilisa",
+		"familyname": "Efimova"
+	},
+	"myfavouritelanguages": [
+		"I do not know any programming languages, except Pascal, yet"
+	],
+	"mywebsite": [
+		"https://sites.google.com/view/efimovasilisa/"
+	],
+	"myemail": [
+		"vasandrya@gmail.com"
+	]
+
+}
